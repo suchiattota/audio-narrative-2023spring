@@ -12,5 +12,6 @@ Car indicator | Freesound
 Car trunk closing | Freesound
 Car trunk opening | Freesound
 Digging with shovel | Freesound
+Police siren | Freesound
 Taking body out of trunk | Freesound
 Walking in forest | Freesound
