@@ -16,4 +16,6 @@ Screenshots of project progress elaborated in progress.md
 Explaining progress of my project
 ### audio_files
 Folder with audio files used in this project
+### storyline.md
+Complete narration of the story with dialogues and sounds explained 
 
