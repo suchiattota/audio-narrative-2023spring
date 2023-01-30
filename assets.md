@@ -18,6 +18,7 @@ House door opening and locking | Recorded by author
 Human voices | Recorded by author
 Police siren | Freesound
 Taking body out of trunk | Freesound
+Typing on phone | Freesound
 Walking inside house | Freesound
 Walking on leaves | Freesound
 Walking down stairs | Recorded by author

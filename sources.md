@@ -14,7 +14,9 @@ greatsoundstube. "car door close from outside." WAV file, 22 Apr. 2022. freesoun
 
 greatsoundstube. "car door open from inside." WAV file, 22 Apr. 2022. freesound.org/people/greatsoundstube/sounds/629322/. CC0 1.0 licensed.
 
-greatsoundstube. "handbrake on." WAV file, 22 Apr. 2022. freesound.org/people/greatsoundstube/sounds/629323/. CC0 1.0 lisenced.
+greatsoundstube. "handbrake on." WAV file, 22 Apr. 2022. freesound.org/people/greatsoundstube/sounds/629323/. CC0 1.0 licensed.
+
+halimturk. "iPhone typing." WAV file, 14 May 2017. freesound.org/people/halimturk/sounds/392634/. CC0 BY 4.0 licensed.
 
 JanKoehl. "walk-forest02." WAV file, 17 Dec. 2009. freesound.org/people/JanKoehl/sounds/85602/. CC BY 4.0 1.0 licensed.
 
