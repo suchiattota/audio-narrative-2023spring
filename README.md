@@ -2,10 +2,14 @@
 This is Suchi's audio project for ENGCMP0610 Composing Digital Media Spring 2023!
 
 # Guide to files and folders in this project
-### AudioProject.aup3
+### AudioNarrative.aup3
 The audacity file of this project
-### Project.mp3
+### AudioNarrative.mp3
 MP3 version of my audio narrative project
+### ending.aup3
+Audacity file for part of project 
+### ending.mp3
+MP3 version of ending.aup3
 ### assets.md
 List of audios I used in my project along with their sources
 ### sources.md
