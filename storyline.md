@@ -1,10 +1,10 @@
 [Typing on phone's keypad]
 
-[Voice 1] "Okay, text sent. Her mom is going to think she is on a weekend getaway and won't call for the next few days. I'm gonna grab the shovel from the suppy closet"
+[Voice 1] "Okay, text sent. Her mom is gonna think she is on a weekend getaway and won't call for the next few days. I'm gonna grab the shovel from the suppy closet"
 
-[Voice 2] "Why do you need a shovel?"
+[Voice 2] "Why do you need a shovel!?"
 
-[Voice 1] "What? You thought we are just gonna leave the body somewhere? Of course not! We are going bury her."
+[Voice 1] "What? You thought we are just gonna leave the body somewhere? Of course not! We are gonna bury her."
 
 [Footsteps fade out and fade back in]
 
@@ -28,7 +28,7 @@
 
 [Walking to the trunk and grabbing the shovel]
 
-[Digging] [Birds chirping]
+[Digging] [Birds chirping] [Coyote howling]
 
 [Walking back to the trunk]
 
@@ -36,7 +36,7 @@
 
 [Carrying and dropping the body in the dug out hole]
 
-[Covering hole with ground] [Animal howl]
+[Covering hole with ground]
 
 [Walking back to the car]
 
@@ -44,11 +44,7 @@
 
 [Faint sound of police siren]
 
-[Voice 2] "Did you hear...is that..is.."
-
-[Police siren gets lounder]
-
-[Voice 1] "Shit!"
+[Voice 2] "Did you hear...is that..i"
 
 [No sound]
 
