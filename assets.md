@@ -12,6 +12,7 @@ Car halting | Freesound
 Car indicator | Freesound
 Car trunk closing | Freesound
 Car trunk opening | Freesound
+Car unlocking | Freesound
 Coyote howl | Freesound
 Digging with shovel | Freesound
 House door opening and locking | Recorded by author
