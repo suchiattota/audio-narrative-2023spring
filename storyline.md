@@ -20,7 +20,7 @@
 
 [Driving]
 
-[Turn signal] [City sounds fade out]
+[Turn signal]
 
 [Pulling the handbrake to halt]
 
