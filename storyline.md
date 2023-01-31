@@ -14,7 +14,9 @@
 
 [Opening and closing of door]
 
-[Walking to the car and placing the body in the trunk]
+[Walking to the car and unlocking it]
+
+[Placing the body in the trunk]
 
 [Getting ito the car the starting the engine]
 
