@@ -1,6 +1,8 @@
 # Composing Digitial Media Audio Project
 This is Suchi's audio project for ENGCMP0610 Composing Digital Media Spring 2023!
 
+It is a murder story.
+
 # Guide to files and folders in this project
 ### AudioNarrative.aup3
 The audacity file of this project
